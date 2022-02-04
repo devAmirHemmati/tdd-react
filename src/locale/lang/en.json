@@ -1,0 +1,10 @@
+{
+  "home": "Home",
+  "signUp": "Sign Up",
+  "username": "username:",
+  "email": "email:",
+  "password": "password:",
+  "passwordRepeat": "password repeat:",
+  "submitButton": "Sign Up",
+  "passwordMismatchValidation": "Password mismatch"
+}

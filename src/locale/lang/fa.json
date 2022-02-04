@@ -1,0 +1,10 @@
+{
+  "home": "صفحه اصلی",
+  "signUp": "صفحه ورود",
+  "username": "نام کاربری:",
+  "email": "ایمیل:",
+  "password": "رمز عبور:",
+  "passwordRepeat": "تکرار رمز عبور:",
+  "submitButton": "ثبت نام",
+  "passwordMismatchValidation": "رمز عبور یکسان نمیباشد"
+}
